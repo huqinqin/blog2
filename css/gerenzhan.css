@@ -34,7 +34,7 @@ color:#de9915; font-weight:bold; padding-bottom:0.3em; }
 #profo #zuopin{width:92.3076%; margin:0 auto; padding:1.5em 0;}
 #profo #zuopin a{width:32.5%; display:block; float:left;position:relative; 
 padding-left:0.8333%; margin:0.625em 0}
-#profo #zuopin a img{width:97.4358%;   display:block;  }
+#profo #zuopin a img{width:97.4358%;   display:block; height:283px }
 #profo #zuopin a div{width:95%; margin-left:2.6315%; display:none; opacity:0.8; 
 background:#333; line-height:9.3em; text-align:center; z-index:1000;position:absolute; top:0 ;left:0; 
 font-size:1.625em ; font-family:"微软雅黑"; color:#fff}
